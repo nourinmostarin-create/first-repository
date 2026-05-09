@@ -1,13 +1,17 @@
-#Documentation
+# Project Documentation
 
+## Project Overview
+This project demonstrates the basic use of GitHub.
 
-This project is created as part of an assignment.
+## Repository Features
+- Repository creation
+- File management
+- File editing
+- Uploading and committing files
 
+## Tools Used
+- GitHub
+- Markdown
 
-## Features
-- Basic GitHub repository setup
-- File creation and commits
-
-
-## Usage
-This repository demonstrates how to use GitHub for beginners.
+## Learning Outcome
+This assignment helps students understand GitHub workflow and version control basics.
