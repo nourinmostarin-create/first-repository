@@ -1,19 +1,26 @@
-# First Repository
+# Python Hello World Project
 
 ## Description
-This repository was created as part of a GitHub assignment.
+This project is a simple Python program that displays a message on the screen.
 
-## Objectives
-- Create a GitHub repository
-- Create and edit files
-- Upload and commit files
-- Learn GitHub basics
+## Program Output
+The program prints:
+
+Hello from Python
 
 ## Files Included
+- main.py
 - README.md
-- LICENSE
 - CONTRIBUTING.md
 - DOCUMENTATION.md
+- LICENSE
+
+## How to Run
+1. Install Python
+2. Open terminal
+3. Run the command:
+
+python main.py
 
 ## Author
 Your Name
