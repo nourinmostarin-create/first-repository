@@ -1,26 +1,16 @@
-# Python Hello World Project
+# Python Hello World
 
-## Description
-This project is a simple Python program that displays a message on the screen.
+This repository was created as part of the GitHub Week 7 assignment.
 
-## Program Output
-The program prints:
+## Files
 
-Hello from Python
-
-## Files Included
 - main.py
-- README.md
-- CONTRIBUTING.md
-- DOCUMENTATION.md
-- LICENSE
+- hello.txt
+- Documentation.md
+- Contributing.md
+- License.md
 
 ## How to Run
-1. Install Python
-2. Open terminal
-3. Run the command:
 
+```bash
 python main.py
-
-## Author
-Your Name
