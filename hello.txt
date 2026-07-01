@@ -1,1 +1,3 @@
-learning how to create and commit files
+Hello GitHub!
+
+This file was uploaded as part of the Week 7 GitHub assignment.
