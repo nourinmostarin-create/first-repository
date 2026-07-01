@@ -1,21 +1,27 @@
 # Project Documentation
 
 ## Project Name
-Python Hello World Project
+Python Hello World
 
-## Purpose
-The purpose of this project is to demonstrate a simple Python program using GitHub.
+## Description
+This project is a simple Python application created for the Week 7 GitHub assignment.
 
-## Technologies Used
-- Python
-- GitHub
-- Markdown
+## Files Included
+- main.py
+- hello.txt
+- README.md
+- Documentation.md
+- Contributing.md
+- License.md
 
-## File Description
+## How to Run
 
-### main.py
-Contains a Python print statement that displays:
-"Hello from Python"
+```bash
+python main.py
+```
 
-## Expected Output
-Hello from Python
+## Features
+- Displays a greeting message.
+- Demonstrates a simple addition function.
+- Uses GitHub for version control.
+- Includes a GitHub Actions workflow for automation.
