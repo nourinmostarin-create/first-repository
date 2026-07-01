@@ -1,1 +1,21 @@
+# GitHub Actions
 
+GitHub Actions is GitHub's automation service.
+
+## Purpose
+This repository uses GitHub Actions to automatically run the Python program whenever changes are pushed to the repository.
+
+## Workflow
+- Trigger: Push to the repository
+- Environment: Ubuntu Latest
+- Python Version: 3.11
+- Command Executed:
+
+```bash
+python main.py
+```
+
+## Benefits
+- Automates testing
+- Ensures code runs successfully
+- Supports continuous integration (CI)
