@@ -1,16 +1,9 @@
-# Contribution Guidelines
+# Contributing
 
-Thank you for contributing to this Python project.
+Thank you for contributing.
 
-## How to Contribute
-1. Fork the repository
-2. Create a new branch
-3. Update the Python code
-4. Commit your changes
-5. Push the branch
-6. Open a Pull Request
+Guidelines:
 
-## Rules
-- Write clean Python code
-- Use meaningful commit messages
-- Test the program before submitting
+- Keep code readable.
+- Write meaningful commit messages.
+- Test code before committing.
